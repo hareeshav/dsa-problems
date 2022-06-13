@@ -22,7 +22,7 @@ public class Demo {
         //list.insertRec(88, 2);
         //list.display();
 
-//        DLL list = new DLL();
+//        DoublyLinkedList list = new DoublyLinkedList();
 //        list.insertFirst(3);
 //        list.insertFirst(2);
 //        list.insertFirst(8);
@@ -32,7 +32,7 @@ public class Demo {
 //
 //        list.display();
 
-//        CLL list = new CLL();
+//        CircularLinkedList list = new CircularLinkedList();
 //        list.insert(23);
 //        list.insert(3);
 //        list.insert(19);
